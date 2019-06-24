@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marcusk/Projects/Private/cme/Crawler/Crawler.csproj": {}
+  },
+  "projects": {
+    "/Users/marcusk/Projects/Private/cme/Crawler/Crawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcusk/Projects/Private/cme/Crawler/Crawler.csproj",
+        "projectName": "Crawler",
+        "projectPath": "/Users/marcusk/Projects/Private/cme/Crawler/Crawler.csproj",
+        "packagesPath": "/Users/marcusk/.nuget/packages/",
+        "outputPath": "/Users/marcusk/Projects/Private/cme/Crawler/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/marcusk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

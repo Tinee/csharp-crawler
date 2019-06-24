@@ -1,0 +1,11 @@
+/Users/marcusk/Projects/Private/cme/Crawler/obj/Debug/netcoreapp2.2/Crawler.csprojAssemblyReference.cache
+/Users/marcusk/Projects/Private/cme/Crawler/obj/Debug/netcoreapp2.2/Crawler.csproj.CoreCompileInputs.cache
+/Users/marcusk/Projects/Private/cme/Crawler/obj/Debug/netcoreapp2.2/Crawler.AssemblyInfoInputs.cache
+/Users/marcusk/Projects/Private/cme/Crawler/obj/Debug/netcoreapp2.2/Crawler.AssemblyInfo.cs
+/Users/marcusk/Projects/Private/cme/Crawler/bin/Debug/netcoreapp2.2/Crawler.deps.json
+/Users/marcusk/Projects/Private/cme/Crawler/bin/Debug/netcoreapp2.2/Crawler.runtimeconfig.json
+/Users/marcusk/Projects/Private/cme/Crawler/bin/Debug/netcoreapp2.2/Crawler.runtimeconfig.dev.json
+/Users/marcusk/Projects/Private/cme/Crawler/bin/Debug/netcoreapp2.2/Crawler.dll
+/Users/marcusk/Projects/Private/cme/Crawler/bin/Debug/netcoreapp2.2/Crawler.pdb
+/Users/marcusk/Projects/Private/cme/Crawler/obj/Debug/netcoreapp2.2/Crawler.dll
+/Users/marcusk/Projects/Private/cme/Crawler/obj/Debug/netcoreapp2.2/Crawler.pdb
